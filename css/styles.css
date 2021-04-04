@@ -21,3 +21,19 @@ h1 {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     color: coral;
 }
+.adopcion_card {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 50px;
+    margin-right: 50px;
+    
+}
+.adopcion_card>div {
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+}
+h5 {
+    text-align: center;
+}
